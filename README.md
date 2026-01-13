@@ -1,7 +1,7 @@
 # Digital-Clock
 A simple desktop digital clock application developed using Python’s Tkinter library.
 
-Key Features:
+✨Key Features:
 
 1.Real-Time Digital Clock
 The application displays the current time and updates automatically every second, so the clock always stays accurate.
@@ -20,33 +20,33 @@ The clock updates smoothly using Tkinter’s built-in scheduling method instead 
 
 
 
-Technical Architecture:
+🛠️Technical Architecture:
 
 1.Programming Language and Library
 
-. Language: Python
+✔ Language: Python
 
-. GUI Library: Tkinter
+✔ GUI Library: Tkinter
 
-. Time Handling: time.strftime
+✔ Time Handling: time.strftime
 
 2.Event-Driven Design
 The application follows an event-driven model where the GUI remains responsive while updates are scheduled in the background.
 
 3.UI Components
 
-. Label widgets are used to display time and date
+✔ Label widgets are used to display time and date
 
-. Fonts and colors are customized for readability and visual appeal
+✔ Fonts and colors are customized for readability and visual appeal
 
 4.Update Mechanism
 The update_display() function:
 
-. Fetches the current system time and date using strftime
+✔ Fetches the current system time and date using strftime
 
-. Updates the label text
+✔ Updates the label text
 
-. Uses root.after(1000, update_display) to schedule the next update after one second
+✔ Uses root.after(1000, update_display) to schedule the next update after one second
 
 5.Efficient Scheduling
 Tkinter’s after() method ensures the program does not block the main thread, avoiding performance issues or UI freezing.
