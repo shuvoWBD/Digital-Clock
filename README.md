@@ -2,17 +2,17 @@
 A simple desktop digital clock application developed using Python’s Tkinter library.
 
 
-🚀**Project Overview:**
+🚀**Project Overview**
 
 This is a digital clock application built with Python and Tkinter that displays the current time in 12-hour format along with the full date. The interface is clean and visually appealing with live updates every second. It continuously refreshes to show real-time changes, making it fully functional as a real-time clock. This project demonstrates the use of Tkinter for creating interactive and dynamic GUI applications.
 
-✨**Key Features:**
+✨**Key Features**
 
-✔ Real-Time Digital Clock:
+✔ * **Real-Time Digital Clock**
 
 The application displays the current time and updates automatically every second, so the clock always stays accurate.
 
-✔ 12-Hour Time Format with AM/PM:
+✔ * **12-Hour Time Format with AM/PM**
 
 The time is shown in a 12-hour format including AM or PM, which is user friendly and easy to read.
 
