@@ -8,23 +8,23 @@ This is a digital clock application built with Python and Tkinter that displays 
 
 ✨**Key Features:**
 
-1.Real-Time Digital Clock:
+✔ Real-Time Digital Clock:
 
 The application displays the current time and updates automatically every second, so the clock always stays accurate.
 
-2.12-Hour Time Format with AM/PM:
+✔ 12-Hour Time Format with AM/PM:
 
 The time is shown in a 12-hour format including AM or PM, which is user friendly and easy to read.
 
-3.Full Date Display:
+✔ Full Date Display:
 
 Along with time, the app shows the full date including day name, day number, month name, and year.
 
-4.Minimal and Clean User Interface:
+✔ Minimal and Clean User Interface:
 
 The UI uses a dark background with bright text colors, creating good contrast and clear visibility.
 
-5.Automatic Refresh Without Freezing:
+✔ Automatic Refresh Without Freezing:
 
 The clock updates smoothly using Tkinter’s built-in scheduling method instead of loops or delays.
 
