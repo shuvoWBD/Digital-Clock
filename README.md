@@ -1,6 +1,10 @@
 # Digital-Clock
 A simple desktop digital clock application developed using Python’s Tkinter library.
 
+
+🚀Project Overview:
+This is a digital clock application built with Python and Tkinter that displays the current time in 12-hour format along with the full date. The interface is clean and visually appealing with live updates every second. It continuously refreshes to show real-time changes, making it fully functional as a real-time clock. This project demonstrates the use of Tkinter for creating interactive and dynamic GUI applications.
+
 ✨Key Features:
 
 1.Real-Time Digital Clock
